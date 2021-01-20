@@ -27,3 +27,5 @@ git commit -m "Hello" 로 올린 시점 저장 (commit)
 완료 후 github의 해당 repository address로 가면 push 되어 있음
 
 clone : pull처럼 외부 자료를 나의 local file로 다운로드/끌어들임
+
+수정해보기
