@@ -26,3 +26,4 @@ git commit -m "Hello" 로 올린 시점 저장 (commit)
 해당 작업 push 하려면 git push origin master
 완료 후 github의 해당 repository address로 가면 push 되어 있음
 
+clone : pull처럼 외부 자료를 나의 local file로 다운로드/끌어들임
