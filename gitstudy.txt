@@ -20,3 +20,9 @@ git add . 변경된 파일들을 모두 tracking
 git commit -m "message" 인식할 수 있는 commit 달아줌
 git push origin +master 실제로 git에 push
 
+git status로 untracked files (올리지 않은 파일) 찾을 수 있음
+untracked file 로컬 파일에 올리려면(commit하려면)  git add .
+git commit -m "Hello" 로 올린 시점 저장 (commit)
+해당 작업 push 하려면 git push origin master
+완료 후 github의 해당 repository address로 가면 push 되어 있음
+
